@@ -1,0 +1,10 @@
+{
+  "name": "dice_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tooki",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
